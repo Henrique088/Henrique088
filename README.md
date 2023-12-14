@@ -57,5 +57,5 @@ Campus Formiga</a>.
 <a href="https://www.instagram.com/henriqueribeiro88" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-
+[![Gmail Badge](https://img.shields.io/badge/-henriqueribeiro88bb@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriqueribeiro88bb@gmail.com)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
