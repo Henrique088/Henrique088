@@ -8,7 +8,7 @@
 - 🤔 Explorando novas tecnologias.
 - 🎓 Cursando **CIÊNCIA DA COMPUTAÇÃO** no <a href="https://www.formiga.ifmg.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais
 Campus Formiga</a>.
-- 💼 A procura de um **ESTÁGIO** 
+- 💼 A procura de um **ESTÁGIO EM DESENVOLVIMENTO DE SOFTWARE** 
 - 🌱 &nbsp; Aprendendo mais sobre **PYTHON, DJANGO, PHP, HTML, CSS, JavaScript**.
 
 <h3>Minhas Skills</h3>
